@@ -17,4 +17,4 @@ The study explores temporal patterns of comorbid conditions in individuals diagn
 ## 📊 Contents
 
 - 📄 `paper.pdf` – Full research manuscript  
-- 🧮 `[notebooks/](/Code/)` – Code and Jupyter notebooks for preprocessing and modelling  
+- 🧮 `[notebooks/](https://github.com/tmi-lab/AD-VD-ChronologicalMapping/tree/main/Code)` – Code and Jupyter notebooks for preprocessing and modelling  
