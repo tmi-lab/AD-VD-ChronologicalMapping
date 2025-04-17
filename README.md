@@ -17,4 +17,4 @@ The study explores temporal patterns of comorbid conditions in individuals diagn
 ## 📊 Contents
 
 - 📄 `paper.pdf` – Full research manuscript  
-- 🧮 `[notebooks/](/Code/Comorbidities_Mapping_16.01.25_with_random_control_of3%203.ipynb.zip)` – Code and Jupyter notebooks for preprocessing and modelling  
+- 🧮 `[notebooks/](./Code/)` – Code and Jupyter notebooks for preprocessing and modelling  
