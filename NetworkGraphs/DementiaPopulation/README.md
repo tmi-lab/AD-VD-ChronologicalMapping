@@ -1,9 +1,29 @@
-Dementia Cohort
+# 📂 Folder Browser
 
-This repository contains the Network Graphs generated for each timeframe and group related to Alzheimer’s Disease (AD) and Vascular Dementia (VD) populations, as described in the accompanying manuscript.
+Here are the files and folders in this directory:
 
-These network graphs were produced to visually represent the comorbidity patterns identified in the study, offering insights into how various conditions interact over time in populations diagnosed with Alzheimer’s Disease or Vascular Dementia.
-
-Full methodological details, including how the networks were constructed and analyzed, can be found in the manuscript.
-
-Each file is labelled according to the dementia sub-type group and time frame it refers to. 
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___0_10_years_after.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___0_10_years_after.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___0_2_years_after.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___0_2_years_after.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___0_4_years_after.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___0_4_years_after.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___0_6_years_after.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___0_6_years_after.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___0_8_years_after.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___0_8_years_after.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20+_years_before.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20+_years_before.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20_10_years_before.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20_10_years_before.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20_15_years_before.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20_15_years_before.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20_2_years_before.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20_2_years_before.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20_5_years_before.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20_5_years_before.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20_7_years_before.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20_7_years_before.png)
+- 📄 [Network_Graph_for_Alzheimer's_Disease_Cohort___20_years_before_to_diagnosis.png](./Network_Graph_for_Alzheimer's_Disease_Cohort___20_years_before_to_diagnosis.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___0_10_years_after.png](./Network_Graph_for_Vascular_Dementia_Cohort___0_10_years_after.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___0_2_years_after.png](./Network_Graph_for_Vascular_Dementia_Cohort___0_2_years_after.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___0_4_years_after.png](./Network_Graph_for_Vascular_Dementia_Cohort___0_4_years_after.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___0_6_years_after.png](./Network_Graph_for_Vascular_Dementia_Cohort___0_6_years_after.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___0_8_years_after.png](./Network_Graph_for_Vascular_Dementia_Cohort___0_8_years_after.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20+_years_before.png](./Network_Graph_for_Vascular_Dementia_Cohort___20+_years_before.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20_10_years_before.png](./Network_Graph_for_Vascular_Dementia_Cohort___20_10_years_before.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20_15_years_before.png](./Network_Graph_for_Vascular_Dementia_Cohort___20_15_years_before.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20_2_years_before.png](./Network_Graph_for_Vascular_Dementia_Cohort___20_2_years_before.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20_5_years_before.png](./Network_Graph_for_Vascular_Dementia_Cohort___20_5_years_before.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20_7_years_before.png](./Network_Graph_for_Vascular_Dementia_Cohort___20_7_years_before.png)
+- 📄 [Network_Graph_for_Vascular_Dementia_Cohort___20_years_before_to_diagnosis.png](./Network_Graph_for_Vascular_Dementia_Cohort___20_years_before_to_diagnosis.png)
+- 📄 [README.md](./README.md)
