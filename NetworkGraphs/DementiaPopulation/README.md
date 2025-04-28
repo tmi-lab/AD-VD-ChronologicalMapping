@@ -1,3 +1,5 @@
+Dementia Cohort
+
 This repository contains the Network Graphs generated for each timeframe and group related to Alzheimer’s Disease (AD) and Vascular Dementia (VD) populations, as described in the accompanying manuscript.
 
 These network graphs were produced to visually represent the comorbidity patterns identified in the study, offering insights into how various conditions interact over time in populations diagnosed with Alzheimer’s Disease or Vascular Dementia.
