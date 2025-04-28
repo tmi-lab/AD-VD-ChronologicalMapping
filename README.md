@@ -20,6 +20,6 @@ The study explores temporal patterns of comorbid conditions in individuals diagn
 - 🧮 ['notebooks/'](./Code/) – Code and Jupyter notebooks for preprocessing and modelling  
      (The notebooks also include the detailed network analysis graphs).
 
-To display all of the network graphs for each time frame and group, for both Alzheimer's Disease and Vascular Dementia cohorts, we have included the complete set of network graphs, as determined by Unidirected Bayesian Network Analysis.
+To display all of the network graphs for each time frame and group, for both Alzheimer's Disease and Vascular Dementia cohorts, we have included the complete set of network graphs, as determined by Undirected Bayesian Network Analysis.
 
 - 📊 (./NetworkGraphs/) - Complete set of network graphs detailing the individual diagnoses, per time frame, per cohort (Alzheimer's Disease, Vascular Dementia) for controls and dementia populations. 
