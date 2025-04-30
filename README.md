@@ -16,7 +16,7 @@ The study explores temporal patterns of comorbid conditions in individuals diagn
 
 ## Contents
 
-- 📄 `paper.pdf` – Full research manuscript (will be uploaded upon completion of review)
+- 📄 [`paper.pdf`] (https://medrxiv.org/cgi/content/short/2025.04.28.25326575v1)– Full research manuscript 
 - 🧮 ['notebooks/'](./Code/) – Code and Jupyter notebooks for preprocessing and modelling  
      (The notebooks also include the detailed network analysis graphs).
 
